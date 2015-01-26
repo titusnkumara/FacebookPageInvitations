@@ -19,7 +19,7 @@
           "default_popup": "popup.html"
         },
 	"web_accessible_resources": [
-		"img/cover.png"
+		"img/cover.png","js/facebook.js"
 	  ],	
 	
 		
